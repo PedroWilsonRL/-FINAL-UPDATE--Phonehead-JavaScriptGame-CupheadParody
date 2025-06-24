@@ -38,7 +38,7 @@ const readyImage = new Image(); readyImage.src = 'assets/icons/ready.png';
 const goImage = new Image(); goImage.src = 'assets/icons/wallop.png';
 const goImage2 = new Image(); goImage2.src = 'assets/icons/wallop2.png';
 const deathMessageImage = new Image(); deathMessageImage.src = 'assets/icons/game over.png';
-const victoryImage = new Image(); victoryImage.src = 'assets/icons/knockout.png'; // substitua pelo caminho correto
+const victoryImage = new Image(); victoryImage.src = 'assets/icons/knockout.png'; 
 const loadingFrames = [
   new Image(),
   new Image(),
